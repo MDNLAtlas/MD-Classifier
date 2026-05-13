@@ -28,7 +28,9 @@ The notebook can also write a few output artifacts (filenames are created dynami
 
 ---
 
-### Data format expected is CSV for the Model.
+### Data format expected is CSV for the Model. 
+
+## Some Synthetic TSV files have been uploaded to the folder 'Individual_data_Uniti_CPU_parallel' to run the code smoothly. This is synthetic data which won't generate any meaningful results.  
 
 
 # INSTRUCTIONS TO RUN THE CODE
